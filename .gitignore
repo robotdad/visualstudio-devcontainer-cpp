@@ -331,3 +331,4 @@ ASALocalRun/
 
 # Build output for this sample
 *.out
+/out
